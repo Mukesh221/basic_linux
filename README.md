@@ -13,10 +13,6 @@ Files:
 
 * `ls` command shows all filed in the current directory (hidden also).
 
-* `rm` command working with `-r` , `-f` and `-v` options.
-
-* `rmexcept file1 ...` command removes all files except files specified with the command.
-
 * Exit shell using `exit` commmand or `Ctrl + c` SIGINT signal
 
 * `history n` command to print last `n` commands or all of the previous commands if no second argument.
